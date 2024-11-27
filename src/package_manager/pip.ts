@@ -40,8 +40,6 @@ const pip3Packages: string[] = [
 	"flake8-import-order",
 	"flake8-quotes",
 	"ifcfg",
-	"importlib-metadata==2.*",
-	"importlib-resources",
 	"lark-parser",
 	"mock",
 	"mypy",
